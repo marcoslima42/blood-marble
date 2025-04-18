@@ -1,0 +1,31 @@
+.vs/
+.vscode/
+
+# arquivos temporarios
+*.swp
+*.swo
+*~
+*.log
+*.tmp
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# arquivos de compilacao 
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+*.a
+*.lib
+*.lo
+
+out/
+.deps/
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
