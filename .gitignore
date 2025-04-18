@@ -23,7 +23,7 @@ Thumbs.db  # Windows
 *.lo
 
 out/
-.deps/
+deps/
 
 CMakeCache.txt
 CMakeFiles/
