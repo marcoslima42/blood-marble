@@ -23,7 +23,7 @@ int main() {
 	// Inicializa a lib GLEW
 	assert(glewInit() == GLEW_OK);
 
-	//verificar versão do OpenGL
+	//verificar versï¿½o do OpenGL
 	GLint GLMajorVersion = 0;
 	GLint GLMinorVersion = 0;
 	glGetIntegerv(GL_MAJOR_VERSION, &GLMajorVersion);
@@ -31,7 +31,7 @@ int main() {
 	//Entra no loop de eventos da aplicacao
 	cout << "OpenGL Version  : " << GLMajorVersion << "." << GLMinorVersion << endl;
 	
-	// Usar o glGetString() para obter informações do driver que estamos usando
+	// Usar o glGetString() para obter informacoes do driver que estamos usando
 	cout << "OpenGL Vendor   : " << glGetString(GL_VENDOR) << endl;
 	cout << "OpenGL Renderer : " << glGetString(GL_RENDERER) << endl;
 	cout << "OpenGL Version  : " << glGetString(GL_VERSION) << endl;

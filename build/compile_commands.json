@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/marcos-lima/Documentos/github/blood-marble/build",
+  "command": "/usr/bin/g++  -I/home/marcos-lima/Documentos/github/blood-marble/deps/stb -I/home/marcos-lima/Documentos/github/blood-marble/deps/glm -g -o CMakeFiles/blood-marble.dir/main.cpp.o -c /home/marcos-lima/Documentos/github/blood-marble/main.cpp",
+  "file": "/home/marcos-lima/Documentos/github/blood-marble/main.cpp",
+  "output": "CMakeFiles/blood-marble.dir/main.cpp.o"
+}
+]
